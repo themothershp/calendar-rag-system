@@ -13,4 +13,4 @@ ENV OPENAI_API_KEY="sk-proj-sc4DEOW2-EPB42scr_kvQGNl9CWRC7EKYqHO8Ke1tYGSo8lVXgHN
 
 EXPOSE 8000
 
-CMD python api.py
+CMD ["python", "api.py"]
